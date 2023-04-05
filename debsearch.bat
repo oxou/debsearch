@@ -1,0 +1,1 @@
+@"{PHP_EXE}" "{CLI_PHP}" %*
