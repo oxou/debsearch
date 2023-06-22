@@ -19,7 +19,7 @@ In order to use this script you need to have PHP installed.
 1. `git clone --depth=1 https://github.com/oxou/debsearch`
 2. `cd debsearch`
 3. `notepad debsearch.bat`
-4. Set {PHP_EXE} to the absolute path of `php.exe` and {CLI_PHP} to the absolute path of `cli.php` example: `C:\debsearch\cli.php`
+4. Set {PHP_EXE} to the absolute path of `php.exe` and {CLI_PHP} to the absolute path of `cli.php` example: `C:\php\php.exe C:\debsearch\cli.php %*`
 5. Save `debsearch.bat` to `C:\Windows\System32`
 
 # Usage
